@@ -57,7 +57,7 @@ body{
 #e{
     border: solid ;
     background-image: url(./end.jpg);
-    
+    background-attachment:fixed;
     background-repeat: no-repeat
 
 }
